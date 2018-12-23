@@ -1,0 +1,80 @@
+syntax = "proto3";
+
+message MentorRegisterRequest{
+  int64 user_id = 1;
+  string mentor_nickname = 2;
+  string mentor_university = 3;
+  string mentor_major = 4;
+  string mentor_backgroundurl = 5;
+  string mentor_profileurl = 6;
+  string mentor_mentoring_area = 7;
+  string mentor_mentoring_field = 8;
+  string mentor_introduction = 9;
+  string mentor_information = 10;
+  bytes background_image = 11;
+  bytes profile_image = 12;
+}
+
+message MentorRegisterResponse{
+  int64 mentor_id = 1;
+}
+
+message UpdateMentorInfoRequest{
+  int64 mentor_id = 1;
+  string mentor_nickname = 2;
+  string mentor_university = 3;
+  string mentor_major = 4;
+  string mentor_backgroundurl = 5;
+  string mentor_profileurl = 6;
+  string mentor_mentoring_area = 7;
+  string mentor_mentoring_field = 8;
+  string mentor_introduction = 9;
+  string mentor_information = 10;
+  bytes background_image = 11;
+  bytes profile_image = 12;
+  int64 user_id = 13;
+}
+
+message Mentor{
+  int64 number_id = 1;
+  int64 mentor_id = 2;
+  int64 user_id = 3;
+  string mentor_nickname = 4;
+  string mentor_university = 5;
+  string mentor_major = 6;
+  string mentor_backgroundurl = 7;
+  string mentor_profileurl = 8;
+  string mentor_mentoring_area = 9;
+  string mentor_mentoring_field = 10;
+  string mentor_introduction = 11;
+  string mentor_information = 12;
+  int64 mentor_touch_count = 13;
+  int64 mentor_favorite_count = 14;
+  int64 mentor_is_active = 15;
+  string mentor_created_at = 16;
+}
+
+message GetMentorsRequest{
+  int64 number_id = 1;
+  //indicator: to determine if best or latest
+  string indicator = 2;
+  string scroll_is = 3;
+}
+
+message GetMentorsResponse{
+  repeated Mentor mentors = 1;
+}
+
+message MentorTouchRequest{
+  int64 mentor_id = 1;
+  //to determine if it is touch count or favorite count
+  string indicator = 2;
+}
+
+message MentorTouchResponse{
+  string is_deleted = 1;
+}
+
+message DeleteMentorRequest{
+  int64 mentor_id = 1;
+}

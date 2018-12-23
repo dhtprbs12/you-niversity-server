@@ -1,0 +1,88 @@
+syntax = "proto3";
+package proto.main;
+//import
+import "user.proto";
+import "university.proto";
+import "mentor.proto";
+//import "conversation.proto";
+import "common.proto";
+import "board.proto";
+
+//service
+service Main {
+	rpc GetCaptcha(CaptchaRequest) returns (CaptchaResponse){}
+	rpc UserRegistration(UserRegisterRequest) returns (UserRegisterResponse){}
+}
+
+service AuthorizedMain{
+	//user.proto
+	rpc Auth(AuthRequest) returns (AuthResponse){}
+	rpc UserLoginCheck(UserLoginCheckRequest) returns (UserLoginCheckResponse){}
+	rpc UpdateProfile(UpdateProfileRequest) returns (UpdateProfileResponse){}
+	rpc Report(ReportRequest) returns (EmptyResponse){}
+  rpc Logout(LogoutRequest) returns (EmptyResponse){}
+	rpc UpdateActive(ActiveRequest) returns (EmptyResponse){}
+  rpc PushUpdate(PushUpdateRequest) returns (EmptyResponse){}
+  rpc Unregister(UnregisterRequest) returns (EmptyResponse){}
+	rpc UpdateAppleToken(UpdateAppleTokenRequest) returns (EmptyResponse){}
+	rpc AppAboutTerminating(AppAboutTerminatingRequest) returns (EmptyResponse){}
+	//rpc GetOfflineMessages(GetOfflineMessagesRequest) returns (GetMessagesResponse){}
+
+
+
+	//mentor.proto
+	rpc MentorRegister(MentorRegisterRequest) returns (MentorRegisterResponse){}
+	rpc UpdateMentorInfo(UpdateMentorInfoRequest) returns (EmptyResponse){}
+	rpc GetMentors(GetMentorsRequest) returns (GetMentorsResponse){}
+	rpc MentorTouch(MentorTouchRequest) returns (EmptyResponse){}
+	rpc DeleteMentor(DeleteMentorRequest) returns (EmptyResponse){}
+
+
+	//board.proto
+	rpc CreateBoard(CreateBoardRequest) returns (CreateBoardResponse){}
+	rpc GetBoards(BoardsRequest) returns (BoardsResponse){}
+	rpc GetMyBoards(MyBoardsRequest) returns (BoardsResponse){}
+	rpc BoardTouch(BoardTouchRequest) returns (EmptyResponse){}
+	rpc ReviseMyBoard(ReviseMyBoardRequest) returns (EmptyResponse){}
+	rpc ReviseMyReview(ReviseMyReviewRequest) returns (EmptyResponse){}
+	rpc DeleteMyBoard(DeleteMyBoardRequest) returns (EmptyResponse){}
+
+
+	//common.proto
+	rpc CommentUpload(CommentUploadRequest) returns (EmptyResponse){}
+	rpc GetComments(GetCommentsRequest) returns (GetCommentsResponse){}
+	rpc GetRepliedComments(GetRepliedCommentsRequest) returns (GetRepliedCommentsResponse){}
+	rpc GetCommentsCount(GetCommentsCountRequest) returns (GetCommentsCountResponse){}
+	rpc RepliedCommentUpload(RepliedCommentUploadRequest) returns (EmptyResponse){}
+	//mentor comment
+	rpc MentorCommentUpload(UploadMentorCommentRequest) returns (EmptyResponse){}
+	rpc RepliedMentorCommentUpload(UploadRepliedMentorCommentRequest) returns (EmptyResponse){}
+	rpc GetMentorComments(GetMentorCommentsRequest) returns (GetMentorCommentsResponse){}
+	rpc GetRepliedMentorComments(GetRepliedMentorCommentsRequest) returns (GetRepliedMentorCommentsResponse){}
+	rpc GetMentorCommentsCount(GetMentorCommentsCountRequest) returns (GetMentorCommentsCountResponse){}
+	rpc GetSharedComments(GetSharedCommentsRequest) returns (GetSharedCommentsResponse){}
+	rpc CheckIfThereIsNewComments(CheckIfThereIsNewCommentsRequest) returns (CheckIfThereIsNewCommentsResponse){}
+	rpc CheckIfItsDeleted(CheckIfItsDeletedRequest) returns (CheckIfItsDeletedResponse){}
+	//shared comment
+	rpc GetBoardObject(GetBoardObjectRequest) returns (GetBoardObjectResponse){}
+	rpc GetCommentObject(GetCommentObjectRequest) returns (GetCommentObjectResponse){}
+	rpc GetMentorObject(GetMentorObjectRequest) returns (GetMentorObjectResponse){}
+	rpc GetMentorCommentObject(GetMentorCommentObjectRequest) returns (GetMentorCommentObjectResponse){}
+
+	//conversation.proto
+	//rpc GetConversations(GetConversationsRequest) returns (GetConversationsResponse){}
+	//rpc JoinConversation(JoinConversationRequest) returns (EmptyResponse){}
+	//rpc LeaveConversation(LeaveConversationRequest) returns (EmptyResponse){}
+	//rpc SendMessage(SendMessageRequest) returns (SendMessageResponse){}
+	//rpc ChatStream (ChatStreamRequest) returns (stream ChatStreamResponse){}
+	//rpc GetMessages(GetMessagesRequest) returns (GetMessagesResponse){}
+	//rpc GetLastMessage(GetLastMessageRequest) returns (GetLastMessageResponse){}
+	//rpc DeleteConversation(DeleteConversationRequest) returns (EmptyResponse){}
+
+	//university.proto
+	rpc GetUniversities(GetUniversitiesRequest) returns (GetUniversitiesResponse){}
+	rpc GetAcceptibleUniversities(GetAcceptibleUniversitiesRequest) returns (GetUniversitiesResponse){}
+	rpc GetUniversityByName(GetUniversityByNameRequest) returns (GetUniversityByNameResponse){}
+
+
+}

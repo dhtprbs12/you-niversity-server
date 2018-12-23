@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+message University{
+  int64 university_id = 1;
+  string name = 2;
+  string ranking = 3;
+  string website = 4;
+  string address = 5;
+  string num_of_students = 6;
+  string tuition_fee = 7;
+  string sat = 8;
+  string act = 9;
+  string application_fee = 10;
+  string sat_act = 11;
+  string high_school_gpa = 12;
+  string acceptance_rate = 13;
+  string crawling_url = 14;
+}
+
+message GetUniversitiesRequest{
+  int64 university_id = 1;
+}
+
+message GetUniversitiesResponse{
+  repeated University universities = 1;
+}
+
+message GetAcceptibleUniversitiesRequest{
+  int64 university_id = 1;
+  string test_type = 2;
+  string score = 3;
+  string gpa_score = 4;
+}
+
+message GetUniversityByNameRequest{
+  string name = 1;
+}
+
+message GetUniversityByNameResponse{
+  University university = 1;
+}

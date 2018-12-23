@@ -1,0 +1,2540 @@
+Stanford University
+Yale University
+Massachusetts Institute of Technology
+Rice University
+Princeton University
+University of Pennsylvania
+Brown University
+Bowdoin College
+California Institute of Technology
+Columbia University
+Duke University
+Vanderbilt University
+Harvard University
+Dartmouth College
+University of Notre Dame
+University of Chicago
+Pomona College
+University of Southern California
+Cornell University
+Northwestern University
+Tufts University
+Washington University in St. Louis
+University of Michigan - Ann Arbor
+Georgetown University
+Carleton College
+Harvey Mudd College
+Emory University
+Middlebury College
+Carnegie Mellon University
+Washington & Lee University
+Swarthmore College
+University of Virginia
+Barnard College
+Claremont McKenna College
+Georgia Institute of Technology
+University of California - Los Angeles
+Wake Forest University
+Haverford College
+Virginia Tech
+University of North Carolina at Chapel Hill
+Amherst College
+University of California - Berkeley
+Colby College
+Davidson College
+Colgate University
+University of Texas - Austin
+Lehigh University
+Wellesley College
+Williams College
+Northeastern University
+Bates College
+University of Richmond
+New York University
+Johns Hopkins University
+Boston College
+Wesleyan University
+Hamilton College
+College of William & Mary
+University of Wisconsin
+University of Rochester
+University of Illinois at Urbana-Champaign
+University of Florida
+Colorado School of Mines
+Reed College
+Scripps College
+Case Western Reserve University
+Grinnell College
+University of Georgia
+Bucknell University
+Smith College
+Bryn Mawr College
+Rensselaer Polytechnic Institute
+Tulane University
+College of the Holy Cross
+Lafayette College
+Texas A&M University
+Purdue University
+Macalester College
+Pitzer College
+Franklin & Marshall College
+Penn State
+University of California - Santa Barbara
+The Ohio State University
+Brigham Young University
+University of Minnesota - Twin Cities
+Boston University
+University of Miami
+Mount Holyoke College
+Michigan State University
+University of Tulsa
+Colorado College
+University of Washington
+Worcester Polytechnic Institute
+Southern Methodist University
+University of Maryland - College Park
+North Carolina State University
+The Cooper Union for the Advancement of Science and Art
+Villanova University
+Stevens Institute of Technology
+Clemson University
+Santa Clara University
+University of California - Davis
+Kenyon College
+Rose-Hulman Institute of Technology
+Whitman College
+Skidmore College
+Michigan Technological University
+Vassar College
+Indiana University - Bloomington
+St. Olaf College
+University of Pittsburgh
+Bentley University
+Gettysburg College
+Florida State University
+Illinois Wesleyan University
+Yeshiva University
+Wheaton College - Illinois
+Brandeis University
+University of California - San Diego
+Trinity University - Texas
+Loyola Marymount University
+University of Iowa
+University of Delaware
+Lawrence University
+Denison University
+Babson College
+Occidental College
+Oberlin College
+George Washington University
+Iowa State University
+Rhode Island School of Design
+College of Wooster
+University of Massachusetts - Amherst
+Rutgers University – New Brunswick
+California Polytechnic State University - San Luis Obispo
+University of Dayton
+Pepperdine University
+Wabash College
+University of Oklahoma
+Butler University
+Union College - New York
+Syracuse University
+University of California - Irvine
+Kansas State University
+University of Oregon
+Augustana University
+Miami University
+Sewanee - The University of the South
+Auburn University
+American University
+University of San Diego
+St. Lawrence University
+Clarkson University
+University of St. Thomas - Minnesota
+James Madison University
+University of Alabama - Birmingham
+Missouri University of Science & Technology
+The College of New Jersey
+Furman University
+Illinois Institute of Technology
+Clark University
+Oklahoma State University
+University of Alabama
+University of Kansas
+University of Utah
+University of Nebraska - Lincoln
+Colorado State University
+University of Arkansas
+Virginia Military Institute
+Arizona State University
+Augustana College - Illinois
+Saint Louis University
+Luther College
+University of Colorado - Boulder
+Calvin College
+Ohio Northern University
+University of Denver
+SUNY College of Environmental Science & Forestry
+Baylor University
+Mississippi State University
+University of South Florida
+Marquette University
+Providence College
+Gustavus Adolphus College
+Florida Institute of Technology
+University of Missouri
+United States Merchant Marine Academy
+University of Connecticut
+University of Scranton
+Washington State University
+University of Texas - Dallas
+Southwestern University
+Rochester Institute of Technology
+Agnes Scott College
+University of South Carolina
+Drake University
+DePauw University
+University at Buffalo, SUNY
+Rockhurst University
+John Carroll University
+Creighton University
+Temple University
+Rhodes College
+Milwaukee School of Engineering
+Texas Christian University
+Saint Michael's College
+Gonzaga University
+University of Central Florida
+University of San Francisco
+St. Norbert College
+University of Portland
+Louisiana State University
+Bradley University
+DePaul University
+New Mexico Institute of Mining & Technology
+Manhattan College
+Rollins College
+Chapman University
+Binghamton University, SUNY
+University of Evansville
+Loyola University Maryland
+Drexel University
+Westmont College
+University of Wyoming
+University of Arizona
+University of Mississippi
+George Mason University
+Hope College
+Bob Jones University
+University of Dallas
+Dickinson College
+Rutgers University - Newark
+Texas Tech University
+Whitworth University
+University of Cincinnati
+Centre College
+Ithaca College
+St. Mary's University - Texas
+Oregon State University
+Ohio University
+Florida International University
+Concordia College
+The University of Alabama in Huntsville
+Stonehill College
+Kettering University
+Connecticut College
+University of the Pacific
+University of Houston
+The New School
+CUNY Baruch College
+Duquesne University
+University of Tennessee
+Fordham University
+Point Loma Nazarene University
+North Dakota State University
+University of Vermont
+University of Kentucky
+Fairfield University
+Biola University
+Appalachian State University
+Ouachita Baptist University
+Willamette University
+Wofford College
+Mercer University
+Juniata College
+Stony Brook University, SUNY
+St. John Fisher College
+West Virginia University
+Emerson College
+University of Wisconsin - La Crosse
+Hobart and William Smith Colleges
+Saint Mary's College - Indiana
+Spelman College
+Louisiana Tech University
+Allegheny College
+Elon University
+Samford University
+California State University - Long Beach
+Loyola University Chicago
+South Dakota School of Mines & Technology
+University of Illinois at Chicago
+University of California - Riverside
+Truman State University
+Simmons College
+Loyola University New Orleans
+University of New Hampshire
+University of Colorado - Denver
+University of California - Santa Cruz
+Madonna University
+University of Louisiana - Lafayette
+Kalamazoo College
+University of North Texas
+San Diego State University
+Muhlenberg College
+Taylor University
+Xavier University
+Seattle Pacific University
+Lewis & Clark College
+Baldwin Wallace University
+University of North Florida
+Austin College
+Hanover College
+Millsaps College
+Christopher Newport University
+Valparaiso University
+University of North Carolina School of the Arts
+DigiPen Institute of Technology
+University of North Carolina - Wilmington
+College of the Ozarks
+Trinity College - Connecticut
+University of Maryland - Baltimore County
+University of Missouri - Kansas City
+University of Louisville
+Ball State University
+University of Puget Sound
+Saint Joseph's University
+Wittenberg University
+California Lutheran University
+Goshen College
+Citadel Military College of South Carolina
+Franciscan Missionaries of Our Lady University
+University of Idaho
+Embry-Riddle Aeronautical University - Daytona Beach
+Bellarmine University
+Liberty University
+Beloit College
+Hendrix College
+California Baptist University
+University of Southern Mississippi
+Oral Roberts University
+Pacific Lutheran University
+University of Massachusetts - Lowell
+Towson University
+Keiser University - Fort Lauderdale
+Pittsburg State University
+Transylvania University
+Knox College
+Dordt College
+Western Washington University
+University of Northern Iowa
+Nebraska Wesleyan University
+Texas State University
+Embry-Riddle Aeronautical University - Prescott
+University of Nevada - Reno
+New College of Florida
+SUNY Geneseo
+Mills College
+Bard College
+East Carolina University
+Hollins University
+Ohio Wesleyan University
+John Brown University
+Georgia Southern University
+CUNY John Jay College of Criminal Justice
+Alverno College
+Nova Southeastern University
+Rutgers University - Camden
+Regis University
+University of Wisconsin - Eau Claire
+Westminster College - Utah
+Xavier University of Louisiana
+Seattle University
+Utah State University
+Union University
+College of Charleston
+Adelphi University
+Azusa Pacific University
+Earlham College
+Loras College
+California State University - Chico
+University of South Florida - St. Petersburg
+University of North Carolina at Asheville
+Bryant University
+Catholic University of America
+Saint Edward's University
+Hampden-Sydney College
+Fashion Institute of Technology
+University of Baltimore
+Maryville University
+Berea College
+Illinois State University
+Young Harris College
+LeTourneau University
+University of Minnesota - Morris
+Illinois College
+Western Carolina University
+New Jersey Institute of Technology
+Stetson University
+University of the Sciences
+Seton Hall University
+University of Wisconsin - Stout
+Northern Arizona University
+Washington College
+University of St. Francis - Illinois
+Presbyterian College
+University of North Carolina at Charlotte
+Cedarville University
+University of Memphis
+University of Minnesota - Crookston
+The College of Idaho
+Asbury University
+George Fox University
+Massachusetts College of Pharmacy & Health Sciences
+Virginia Commonwealth University
+Coe College
+Central College
+Eastern Mennonite University
+Stockton University
+Marian University - Indiana
+University of North Carolina - Greensboro
+Fashion Institute of Design & Merchandising - Los Angeles
+Meredith College
+Central Michigan University
+St. Thomas University - Florida
+Lipscomb University
+Washington & Jefferson College
+Gannon University
+Union College - Nebraska
+California State University Maritime Academy
+Wheaton College - Massachusetts
+Western Michigan University
+Pacific University
+CUNY Brooklyn College
+Elizabethtown College
+Martin Luther College
+Winthrop University
+California State University - Fullerton
+CUNY Queens College
+Eastern Illinois University
+Northland College
+Ursinus College
+Otterbein University
+University of St. Thomas - Texas
+University of Washington - Tacoma
+Albion College
+Vermont Technical College
+Carroll College
+University of North Dakota
+Northwest Missouri State University
+University at Albany, SUNY
+University of North Alabama
+St. Ambrose University
+Wayne State University
+Monmouth University
+Cornell College
+Lawrence Technological University
+Dallas Baptist University
+Northwest Nazarene University
+Fresno Pacific University
+Georgia College & State University
+Oregon Institute of Technology
+William Carey University
+Susquehanna University
+Kendall College
+Grand Canyon University
+Albany College of Pharmacy & Health Sciences
+The Culinary Institute of America
+North Carolina A&T State University
+Mississippi College
+Abilene Christian University
+Evangel University
+Lancaster Bible College
+Roanoke College
+Murray State University
+Hofstra University
+Penn State Berks
+Berry College
+Milligan College
+University of South Dakota
+Salisbury University
+Indiana University-Purdue University - Indianapolis (IUPUI)
+Saint Anselm College
+University of Michigan - Dearborn
+Adventist University of Health Sciences
+West Coast University - Los Angeles
+California Institute of the Arts
+Howard University
+CUNY City College of New York
+University of Wisconsin - Milwaukee
+University of Nebraska at Kearney
+Bowling Green State University
+Christian Brothers University
+Whittier College
+University of Redlands
+Grand Valley State University
+Marietta College
+West Chester University of Pennsylvania
+MidAmerica Nazarene University
+Florida Gulf Coast University
+University of California - Merced
+Andrews University
+Vanguard University of Southern California
+Oklahoma City University
+Walsh University
+St. Bonaventure University
+University of Minnesota - Duluth
+St. Mary's College of Maryland
+Lake Forest College
+Spalding University
+University of La Verne
+Berklee College of Music
+University of Wisconsin - Stevens Point
+Florida A&M University
+Jefferson College of Health Sciences
+Penn State Erie - The Behrend College
+Quinnipiac University
+Penn State Fayette - Eberly Campus
+Georgia State University
+University of Illinois at Springfield
+Viterbo University
+Jacksonville University
+University of Texas - Tyler
+Gallaudet University
+Montana Tech of the University of Montana
+Montclair State University
+Eckerd College
+Southern Adventist University
+SUNY Maritime College
+University of Mount Union
+Stanbridge University
+University of Findlay
+Molloy College
+Fontbonne University
+SUNY New Paltz
+Tennessee Technological University
+Arizona State University - West Campus
+Le Moyne College
+University of Texas - Arlington
+Monmouth College
+Wisconsin Lutheran College
+Champlain College
+Texas A&M International University
+Wilkes University
+Penn State York
+Alfred University
+SUNY College at Oneonta
+University of Hawaii at Manoa
+La Salle University
+Franciscan University of Steubenville
+Palm Beach Atlantic University
+William Jewell College
+Hamline University
+Arizona State University - Downtown Phoenix Campus
+St. John's University - New York
+Belhaven University
+Wentworth Institute of Technology
+Marist College
+Stephen F Austin State University
+Western Illinois University
+College of Saint Mary
+Manchester University
+McDaniel College
+Montana State University
+Baker University
+California State Polytechnic University - Pomona
+Siena College
+Queens University of Charlotte
+University of New Orleans
+Nazareth College
+University of Central Oklahoma
+Missouri State University
+Maryville College
+New Mexico State University
+University of Nebraska at Omaha
+Sam Houston State University
+Saint Mary's College of California
+Messiah College
+Concordia University - Nebraska
+Harding University
+Southwestern Assemblies of God University
+University of New Mexico
+Concordia University - Oregon
+Embry-Riddle Aeronautical University - Worldwide
+University of Maine
+SUNY Oswego
+Monroe College - Bronx
+SUNY Plattsburgh
+Saint Martin's University
+Chatham University
+Winona State University
+Spring Hill College
+Edgewood College
+Pace University
+Westminster College - Pennsylvania
+Northwestern College - Iowa
+Minneapolis College of Art & Design
+Sarah Lawrence College
+University of Missouri - St. Louis
+Oklahoma Christian University
+South Dakota State University
+University of Indianapolis
+Cleveland State University
+Penn State Mont Alto
+Birmingham-Southern College
+University of the Incarnate Word
+Kent State University
+Indiana Wesleyan University
+Woodbury University
+Doane University
+Elmhurst College
+Bethel College - Kansas
+University of Texas - San Antonio
+Webster University
+St. Joseph's College - New York
+Olivet Nazarene University
+Valley City State University
+University of Wisconsin - Whitewater
+North Central College
+SUNY Fredonia
+California State University - Fresno
+SUNY College at Brockport
+Houghton College
+University of Wisconsin - Superior
+Iona College
+University of Science & Arts of Oklahoma
+Portland State University
+West Texas A&M University
+Drew University
+Southern Illinois University Edwardsville
+The College of St. Scholastica
+Bay Path University
+Alma College
+Minnesota State University, Mankato
+Saint Vincent College - Pennsylvania
+Jefferson (Philadelphia University + Thomas Jefferson University)
+Bennington College
+Wartburg College
+Laguna College of Art & Design
+University of Rhode Island
+Maranatha Baptist University
+Friends University
+Lebanon Valley College
+Art Center College of Design
+Union Institute & University
+McNeese State University
+University of Connecticut - Stamford
+Texas A&M University - Commerce
+SUNY Farmingdale State College
+Lander University
+Penn State Hazleton
+Dominican University
+Belmont University
+Central Washington University
+Roosevelt University
+Oklahoma Baptist University
+CUNY Hunter College
+Emporia State University
+Augusta University
+Central Baptist College
+Massachusetts Maritime Academy
+Pacific Union College
+Walla Walla University
+University of Connecticut - Avery Point
+University of Montana
+Niagara University
+Ferris State University
+Florida Southern College
+Lycoming College
+Northwest University
+CUNY Lehman College
+Nicholls State University
+Columbus College of Art & Design
+Gordon College
+Northern State University
+Radford University
+Pratt Institute
+Dunwoody College of Technology
+Indiana University - Southeast
+Wheeling Jesuit University
+Wesleyan College
+Catawba College
+Huntington University
+Assumption College
+Penn State Lehigh Valley
+University of Washington - Bothell
+California State University - Stanislaus
+Johnson University
+American Musical & Dramatic Academy
+Emory & Henry College
+Mount St. Joseph University
+North Park University
+Northern Illinois University
+Otis College of Art and Design
+Penn State Harrisburg
+Mount Saint Mary's University (CA)
+University of Central Missouri
+Texas Lutheran University
+Saginaw Valley State University
+Lewis University
+Concordia University - Wisconsin
+King's College - Pennsylvania
+Linfield College
+Avila University
+Marymount University
+ECPI University
+Georgetown College
+University of Massachusetts - Boston
+College for Creative Studies
+Florida Atlantic University
+University of Detroit Mercy
+Trinity Christian College
+Goucher College
+University of Louisiana - Monroe
+Western New England University
+University of Tampa
+William Jessup University
+Dominican University of California
+Franklin College
+University of New Hampshire at Manchester
+Benedictine University
+Moravian College
+Boise State University
+Southeastern Louisiana University
+Trevecca Nazarene University
+Massachusetts College of Art & Design
+Flagler College - St. Augustine
+National University
+Slippery Rock University
+Roger Williams University
+University of Hartford
+Southern New Hampshire University
+Maine Maritime Academy
+Judson University
+Saint Mary's University of Minnesota
+Westminster College - Missouri
+Augsburg College
+Arkansas Tech University
+Ohio State University - Marion
+Suffolk University
+Texas Wesleyan University
+University of Central Arkansas
+Lynchburg College
+Southwestern Oklahoma State University
+Ashland University
+California State University - Northridge
+McKendree University
+Rowan University
+Hilbert College
+Mount Carmel College of Nursing
+Middle Tennessee State University
+Minot State University
+Eastern Connecticut State University
+Norwich University
+University of Jamestown
+Rocky Mountain College
+Morningside College
+Carthage College
+Rider University
+Old Dominion University
+Full Sail University
+University of Texas - Rio Grande Valley
+University of Tennessee - Martin
+Remington College - Dallas
+Bryan College - Tennessee
+Texas A&M University - Corpus Christi
+Coker College
+Oakland University
+University of Wisconsin - River Falls
+Brescia University
+SUNY Alfred State College
+St. Catherine University
+Salem College
+Eastern Kentucky University
+Arkansas State University
+University of New England
+Benedictine College
+Eureka College
+Lee University
+Canisius College
+Wingate University
+Concordia University Irvine
+Marywood University
+Saint Leo University
+Merrimack College
+Longwood University
+Penn State New Kensington
+University of Texas - El Paso
+Mount St. Mary's University
+University of Wisconsin - Oshkosh
+Colorado Christian University
+Eastern University
+Simpson College
+University of Southern Indiana
+University of South Alabama
+Plaza College
+University of Texas - Permian Basin
+Southwestern Adventist University
+Savannah College of Art & Design
+Delta State University
+Corban University
+Millersville University of Pennsylvania
+Springfield College - Massachusetts
+University of Wisconsin - Platteville
+Rochester College
+Southeast Missouri State University
+Hampshire College
+University of Hawaii - West Oahu
+Southern Illinois University Carbondale
+Morehouse College
+Robert Morris University - Illinois
+West Virginia Wesleyan College
+Florida College
+Greenville University
+University of Montana - Western
+SUNY Purchase College
+University of Saint Francis - Indiana
+University of Mary Hardin-Baylor
+Troy University
+Purdue University Northwest - Calumet
+Chaminade University of Honolulu
+Humboldt State University
+Malone University
+Brigham Young University - Idaho
+University of West Florida
+University of Sioux Falls
+King University - Tennessee
+Regent University
+SUNY Institute of Technology at Utica-Rome
+Arizona State University - Polytechnic Campus
+Concordia University - Texas
+Southeastern University
+Simpson University
+Tarleton State University
+Bloomsburg University of Pennsylvania
+Drury University
+Johnson & Wales University - Charlotte
+Bethel College - Indiana
+California State University - Sacramento
+University of Northern Colorado
+Geneva College
+North Greenville University
+Southern Utah University
+Penn State Brandywine
+Grace Bible College
+La Sierra University
+Kennesaw State University
+School of the Art Institute of Chicago
+University of Houston - Downtown
+Centenary College of Louisiana
+Miami University - Hamilton
+Western State Colorado University
+Hartwick College
+Minnesota State University Moorhead
+University of Colorado - Colorado Springs
+University of Mary Washington
+Marshall University
+Trine University
+California State University - San Bernardino
+Penn State Worthington Scranton
+North Central University
+Jacksonville State University
+Cornish College of the Arts
+Angelo State University
+Mount Mercy University
+Bridgewater College
+Emmanuel College - Massachusetts
+Seton Hill University
+University of Toledo
+Texas Woman's University
+Brigham Young University - Hawaii
+Heidelberg University
+Notre Dame of Maryland University
+York College of Pennsylvania
+Ramapo College of New Jersey
+William Woods University
+High Point University
+Bluffton University
+Point University
+University of Nevada - Las Vegas
+New York Institute of Technology
+Graceland University
+Saint Francis University
+Menlo College
+Newman University
+University of Northwestern - St. Paul
+Capital University
+Fort Hays State University
+Tuskegee University
+Salve Regina University
+Freed-Hardeman University
+West Virginia University Institute of Technology
+Jackson State University
+University of Tennessee - Chattanooga
+Southern Nazarene University
+Midwestern State University
+Cleveland Institute of Art
+Ohio State University - Mansfield
+Milwaukee Institute of Art & Design
+Grace College & Seminary
+Penn State Altoona
+Misericordia University
+Hood College
+Penn State Abington
+Mississippi University for Women
+Stephens College
+Holy Family University
+Stevenson University
+Quincy University
+Plymouth State University
+Bethel University - Minnesota
+Hawaii Pacific University
+Converse College
+Concordia University - Minnesota
+School of Visual Arts
+Widener University
+Goldey-Beacom College
+Gardner-Webb University
+University of South Carolina - Aiken
+Mercyhurst University
+University of New Haven
+DeSales University
+Miami University - Middletown
+Northern Kentucky University
+Robert Morris University - Pennsylvania
+Houston Baptist University
+Northwood University - Midland
+Louisiana College
+Western Oregon University
+Holy Names University
+Southwestern Christian University
+The University of Virginia's College at Wise
+Wagner College
+University of Cincinnati - Blue Ash College
+Ave Maria University
+Foothill College
+East Texas Baptist University
+Galen College of Nursing - Louisville
+Dakota Wesleyan University
+Winston-Salem State University
+Utah Valley University
+Metropolitan State University - Minnesota
+Columbia College Chicago
+West Liberty University
+San Jose State University
+Anderson University - South Carolina
+Anderson University - Indiana
+Indiana University of Pennsylvania
+Penn State Beaver
+Northwestern State University of Louisiana
+Dakota State University
+Coastal Carolina University
+Northeastern Illinois University
+Barton College
+Hardin-Simmons University
+Ripon College
+Penn State Schuylkill
+Cogswell Polytechnical College
+Rhode Island College
+Piedmont College
+Daemen College
+Western Kentucky University
+William Paterson University of New Jersey
+Nevada State College
+Austin Peay State University
+Park University
+University of Alaska Fairbanks
+University of Pittsburgh - Bradford
+Grambling State University
+Spring Arbor University
+Eastern Washington University
+Washburn University
+Clayton State University
+Hampton University
+Goodwin College
+University of Michigan - Flint
+Adrian College
+Prairie View A & M University
+Life University
+Ohio Dominican University
+California State University - Monterey Bay
+Oglethorpe University
+Central Methodist University
+Albertus Magnus College
+Herzing University - Madison
+Kean University
+Carlow University
+Keene State College
+University of Pittsburgh - Greensburg
+Kansas City Art Institute
+Central Connecticut State University
+Concordia University - Ann Arbor
+Warner University
+Shenandoah University
+University of Saint Joseph
+Wayland Baptist University
+McMurry University
+Cardinal Stritch University
+SUNY Cortland
+Carroll University
+Indiana University - Kokomo
+Northern Michigan University
+East Tennessee State University
+Southwest University
+Point Park University
+Cedar Crest College
+Toccoa Falls College
+University of North Georgia
+Caldwell University
+California State University - San Marcos
+College of Our Lady of the Elms
+Kentucky Wesleyan College
+University of South Carolina - Upstate
+The University of West Alabama
+Roberts Wesleyan College
+Lincoln Memorial University
+University of Massachusetts - Dartmouth
+D'Youville College
+Briar Cliff University
+Fayetteville State University
+Cornerstone University
+Southern Wesleyan University
+Valdosta State University
+The Sage Colleges
+Belmont Abbey College
+Bismarck State College
+Northeastern State University
+Millikin University
+Independence University
+Davis & Elkins College
+Lake Erie College
+Barry University
+Nyack College
+Vaughn College of Aeronautics & Technology
+Ohio Christian University
+San Francisco State University
+California State University - East Bay
+Ohio University - Zanesville
+Aquinas College - Michigan
+Concordia University Chicago
+Kent State University - Tuscarawas
+Idaho State University
+University of Maine at Farmington
+Lindenwood University
+New England Institute of Technology
+Pima Medical Institute - Tucson
+Musicians Institute
+SUNY Potsdam
+University of Hawaii at Hilo
+The College of Saint Rose
+Saint Joseph's College of Maine
+Mid-America Christian University
+California State University - Bakersfield
+Lubbock Christian University
+Wright State University
+Eastern New Mexico University
+Hastings College
+Mount Vernon Nazarene University
+Colorado Technical University - Colorado Springs
+Auburn University - Montgomery
+Bellingham Technical College
+Dillard University
+Sterling College - Kansas
+Columbus State University
+Warren Wilson College
+University of Alaska Southeast
+University of Arkansas at Pine Bluff
+Youngstown State University
+Randolph College
+University of Wisconsin - Parkside
+DeVry University - Illinois
+Academy of Art University
+Chadron State College
+Mayville State University
+University of the Cumberlands
+Louisiana State University - Shreveport
+Pfeiffer University
+Manhattanville College
+Hiram College
+Clark Atlanta University
+University of Mary
+LaGrange College
+Claflin University
+Fort Lewis College
+Southeastern Oklahoma State University
+Sacred Heart University
+University of Connecticut - Tri-Campus
+Brazosport College
+Trinity International University - Deerfield
+University of Saint Mary
+Ohio University - Lancaster
+Missouri Baptist University
+Long Island University - C.W. Post
+Mansfield University of Pennsylvania
+Utica College
+Purdue University Northwest - North Central
+Indiana State University
+Georgia Southern University - Armstrong
+Mount Aloysius College
+Mount Mary University
+Colby-Sawyer College
+Rasmussen College - Ocala
+Indiana University - East
+Southern Oregon University
+Brenau University
+Kutztown University of Pennsylvania
+Gwynedd Mercy University
+University of West Georgia
+Lamar University
+Wheelock College
+Rockford University
+College of Mount Saint Vincent
+Lake Washington Institute of Technology
+SUNY Empire State College
+University of Mount Olive
+Hope International University
+Florida Memorial University
+University of Arkansas at Little Rock
+Frostburg State University
+California State University - Channel Islands
+Guilford College
+Neumann University
+Northwestern Oklahoma State University
+Kansas Wesleyan University
+Heritage University
+Paul Smith's College
+Hodges University
+Montreat College
+University of Wisconsin - Green Bay
+Maryland Institute College of Art
+Gurnick Academy of Medical Arts
+Saint Xavier University
+California State University - Los Angeles
+University of Advancing Technology
+Muskingum University
+Snow College
+South University - Savannah
+Henderson State University
+Keuka College
+Pioneer Pacific College
+Lyon College
+University of Akron
+University of the Arts
+Ringling College of Art & Design
+Black Hills State University
+Salish Kootenai College
+Saint Peter's University
+North Carolina Central University
+University of Charleston
+University of Mobile
+University of Maine at Fort Kent
+Methodist University
+Charleston Southern University
+Penn State Greater Allegheny
+Johnson & Wales University
+Arcadia University
+Cabrini College
+Centralia College
+Santa Fe College
+Wayne State College
+Southern Connecticut State University
+Clarke University
+Hannibal-LaGrange University
+Thomas More College
+Metropolitan State University of Denver
+Colorado Mesa University
+St. Thomas Aquinas College
+Stratford University
+Thiel College
+Wichita State University
+Randolph-Macon College
+William Peace University
+Indiana University-Purdue University - Fort Wayne
+Our Lady of the Lake University
+Buena Vista University
+Francis Marion University
+Kentucky State University
+California College of the Arts
+McPherson College
+St. Francis College
+Worcester State University
+University of Montevallo
+Brevard College
+Everglades University
+Culver-Stockton College
+Covenant College
+MacMurray College
+Howard Payne University
+St. Cloud State University
+Tennessee Wesleyan College
+Eastern Michigan University
+Clarion University of Pennsylvania
+Colorado State University - Pueblo
+Johnson & Wales University - North Miami
+Rivier University
+Touro College
+Morehead State University
+SUNY College of Agriculture & Technology at Cobleskill
+Delaware State University
+La Roche College
+Wilmington College
+Siena Heights University
+Lenoir-Rhyne University
+New Jersey City University
+Unity College
+Pennsylvania College of Technology
+Shippensburg University of Pennsylvania
+Marian University - Wisconsin
+Campbell University
+South Seattle College
+Castleton University
+Ohio State University - Newark
+Spartan College of Aeronautics & Technology - Tulsa
+South University - Columbia
+University of Pittsburgh - Johnstown
+Shepherd University
+Wells College
+Cumberland University
+College of Saint Elizabeth
+Johnson & Wales University - Denver
+Endicott College
+Norfolk State University
+Westfield State University
+Lake Superior State University
+Lewis-Clark State College
+Weber State University
+Metropolitan College of New York
+Western Connecticut State University
+Ottawa University
+Bemidji State University
+Shorter University
+Felician University
+Fairleigh Dickinson University - College at Florham
+Columbia College - Missouri
+Bay State College
+Dickinson State University
+DeVry University - New Jersey
+East Central University
+Notre Dame de Namur University
+North Seattle College
+University of Arkansas - Fort Smith
+SUNY Buffalo State College
+University of Arkansas at Monticello
+Wright State University - Lake Campus
+Evergreen State College
+Charter College - Alaska
+Schoolcraft College
+Ohio State University - Lima
+Eastern Oregon University
+Washington Adventist University
+Crown College
+Franklin University
+University of the Ozarks
+Schreiner University
+Alcorn State University
+Ozark Christian College
+Fairleigh Dickinson University
+SUNY College at Old Westbury
+Abraham Baldwin Agricultural College
+Texas A&M University - Kingsville
+Framingham State University
+Elizabeth City State University
+Holy Cross College
+Southern Arkansas University
+Calumet College of St. Joseph
+Lasell College
+University of Cincinnati - Clermont
+Louisiana State University - Alexandria
+East Stroudsburg University of Pennsylvania
+Kent State University - Salem
+DeVry University - Florida
+Georgia Southwestern State University
+Tabor College
+Oklahoma State University - Oklahoma City
+Medaille College
+Dixie State University
+University of South Carolina - Beaufort
+University of Alaska Anchorage
+University of Dubuque
+Bellevue University
+Lock Haven University
+Chipola College
+American International College
+University of Bridgeport
+California University of Pennsylvania
+Cincinnati Christian University
+Huntingdon College
+University of Hawaii - Maui College
+Bluefield State College
+Lynn University
+Highline Community College
+Sul Ross State University
+Massachusetts College of Liberal Arts
+Fitchburg State University
+DeVry University - California
+Montana State University - Billings
+Bowie State University
+Cairn University
+Sullivan University
+University of Northwestern Ohio
+Florida Technical College
+The College of Westchester
+Fairmont State University
+Berkeley College - Woodland Park
+Tiffin University
+Delaware Valley University
+Blackburn College
+Fisk University
+South Texas College
+Alderson Broaddus College
+Albright College
+Oakland City University
+Columbia College - South Carolina
+Oklahoma State University Institute of Technology - Okmulgee
+Edinboro University
+University of Southern Maine
+Haskell Indian Nations University
+Clover Park Technical College
+Lesley University
+Arizona Christian University
+Southwest Minnesota State University
+Eastern Nazarene College
+Madison Area Technical College
+Cameron University
+Dominican College of Blauvelt
+University of Phoenix - Albuquerque
+Indiana Institute of Technology
+Grand View University
+Platt College - Los Angeles
+Carson-Newman University
+University of North Carolina at Pembroke
+Waynesburg University
+Erskine College
+William Penn University
+Alvernia University
+Midway College
+Sonoma State University
+SUNY Morrisville State College
+Davenport University
+Ohio University - Southern
+Colorado Mountain College
+DeVry University - Ohio
+New Mexico Highlands University
+Lyndon State College
+Emmanuel College - Georgia
+Trocaire College
+Elmira College
+Rocky Mountain College of Art & Design
+Lourdes University
+Valencia College
+Central Christian College of Kansas
+Regis College
+Cascadia Community College
+Oklahoma Wesleyan University
+Tennessee State University
+Tougaloo College
+Kent State University - Stark
+Immaculata University
+Virginia State University
+Georgian Court University
+Peninsula College
+University of Great Falls
+Red Rocks Community College
+Anna Maria College
+Indian River State College
+Southern California Institute of Technology
+Ranken Technical College
+Post University
+University of Maryland - University College
+California College - San Diego
+SUNY Delhi
+Bethany College - West Virginia
+Reinhardt University
+Fort Valley State University
+Oakwood University
+Bethune-Cookman University
+San Diego Christian College
+University of Valley Forge
+Aurora University
+DeVry University - Texas
+Chicago State University
+Five Towns College
+Northern New Mexico College
+Purdue University Global - Davenport Campus
+Salem State University
+Mary Baldwin University
+Morgan State University
+Southern Virginia University
+Tyler Junior College
+Johnson C. Smith University
+DeVry University - Georgia
+Southern Technical College - Fort Myers
+Limestone College
+Stevens-Henager College - Murray
+Thomas College
+The Art Institute of California - San Diego
+Ohio University - Chillicothe
+Greensboro College
+Defiance College
+Skyline College - San Bruno
+Centenary College - New Jersey
+Albany State University
+Peru State College
+St. Petersburg College
+Mercy College
+Tusculum College
+Cazenovia College
+Newberry College
+The Art Institute of California - Orange County
+Georgia Gwinnett College
+Georgia Highlands College
+Mars Hill University
+Pierce College at Fort Steilacoom
+Averett University
+Montana State University - Northern
+Adams State University
+Midland University
+California State University - Dominguez Hills
+The Art Institute of California - Inland Empire
+Upper Iowa University
+St. Johns River State College
+Vincennes University
+Marymount Manhattan College
+Dean College
+CUNY College of Staten Island
+Chestnut Hill College
+Nichols College
+Missouri Western State University
+St. Andrews University - North Carolina
+Green River Community College
+Bridgewater State University
+The Art Institute of Portland
+CUNY York College
+Bethel University - Tennessee
+South Florida State College
+Midland College
+Langston University
+Long Island University - Brooklyn
+Oklahoma Panhandle State University
+Indiana University - Northwest
+Lakeland University
+Rogers State University
+Missouri Southern State University
+Lincoln College
+Tallahassee Community College
+Western New Mexico University
+Philander Smith College
+Virginia Wesleyan College
+Pensacola State College
+West Virginia State University
+Lindsey Wilson College
+West Virginia University at Parkersburg
+Lees-McRae College
+Gordon State College
+Becker College
+Renton Technical College
+Texas Southern University
+Columbia Basin College
+Kent State University - Ashtabula
+The Art Institute of California - San Francisco
+North Carolina Wesleyan College
+Union College - Kentucky
+Alabama State University
+South Carolina State University
+Berkeley College - New York
+Northwestern Michigan College
+The Art Institute of California - Hollywood
+Faulkner University
+Bethany College - Kansas
+Notre Dame College
+SUNY Canton
+College of Coastal Georgia
+Truett McConnell University
+Newbury College
+Dine College
+Tacoma Community College
+Concordia College - New York
+Indiana University - South Bend
+Wilmington University
+Trinity Washington University
+Wilberforce University
+Virginia College - Birmingham
+The Los Angeles Film School
+Mississippi Valley State University
+University of Maryland Eastern Shore
+Seminole State College of Florida
+Shaw University
+Curry College
+The Art Institute of Fort Lauderdale
+Miami Dade College
+Savannah State University
+Pueblo Community College
+University of Phoenix - Colorado
+San Diego Mesa College
+Ferrum College
+Kent State University - Geauga
+South University - West Palm Beach
+Santa Monica College
+Grays Harbor College
+Southwest Baptist University
+University of the District of Columbia
+Florida State College at Jacksonville
+Huston-Tillotson University
+Franklin Pierce University
+Green Mountain College
+Keystone College
+CollegeAmerica - Phoenix
+College of Central Florida
+Oglala Lakota College
+Olivet College
+Florida Gateway College
+The Art Institute of Michigan
+The Art Institute of Colorado
+Seattle Central College
+Waldorf University
+The Art Institute of Houston
+Northwest Florida State College
+Remington College - Memphis
+Harrison College - Indianapolis
+Glenville State College
+Concord University
+The Art Institute of Phoenix
+Alpena Community College
+Potomac State College of West Virginia University
+Santa Ana College
+Mount Saint Mary College - New York
+Northwest Indian College
+Delaware Technical Community College - Terry
+Remington College - North Houston
+Marymount California University
+Bellevue College
+Granite State College
+Palm Beach State College
+Rio Hondo College
+DeVry College of New York
+The Illinois Institute of Art - Schaumburg
+Gulf Coast State College
+Pasco-Hernando State College
+Missouri Valley College
+The Art Institute of Dallas
+Rasmussen College - Rockford
+Harris-Stowe State University
+Skagit Valley College
+Lincoln University of Pennsylvania
+Strayer University - Virginia
+CUNY Medgar Evers College
+Dalton State College
+Warner Pacific College - Adult Degree Program
+The Art Institute of Indianapolis
+Broward College
+College of Southern Nevada
+Eastern Florida State College
+Olympic College
+CUNY New York City College of Technology
+Brookline College - Phoenix
+Southern University at New Orleans
+West Los Angeles College
+Alice Lloyd College
+Henry Ford Community College
+Bacone College
+The Art Institute of Austin
+Lake-Sumter State College
+Webber International University
+University of Maine at Augusta
+Martin Methodist College
+Campbellsville University
+Feather River College
+University of Pikeville
+Bakersfield College
+Kent State University - Trumbull
+Daytona State College
+Rasmussen College - St. Cloud
+Polk State College
+Uta Mesivta of Kiryas Joel
+Alabama A&M University
+Stillman College
+Lane College
+Great Basin College
+The College of New Rochelle
+Strayer University - Georgia
+Clark College
+Wesley College
+Bennett College for Women
+Rust College
+Mitchell College
+The Art Institute of Tennessee - Nashville
+Cheyney University of Pennsylvania
+Coppin State University
+South College - Knoxville
+Florida Southwestern State College
+University of Maine at Presque Isle
+Morris College
+Urbana University
+Bryan University - Los Angeles
+The Illinois Institute of Art - Chicago
+Fisher College
+Yakima Valley Community College
+Lincoln University - Missouri
+The Art Institute of Las Vegas
+Miami International University of Art & Design
+LeMoyne-Owen College
+Central State University
+Bloomfield College
+Boricua College
+Bluefield College
+American National University - Roanoke Valley
+Antelope Valley College
+Lake Michigan College
+St. Augustine College
+Johnson State College
+State College of Florida - Manatee-Sarasota
+The Art Institute of Pittsburgh
+Bainbridge State College
+Spokane Falls Community College
+Shawnee State University
+University of Phoenix - Hawaii
+Salem International University
+Florida National University
+The Art Institute of Philadelphia
+Western Nevada College
+Modesto Junior College
+University of Rio Grande
+Atlanta Metropolitan State College
+Virginia Union University
+Paine College
+Baker College of Flint
+The Art Institute of Washington
+Wiley College
+Edward Waters College
+East Georgia State College
+Jarvis Christian College
+Benedict College
+Saint Augustine's University
+Talladega College
+Texas College
+Jackson Community College
+Shasta College
+University of Phoenix - Utah
+Allen University
+Yeshivath Viznitz
+Michigan Jewish Institute
+East-West University
+Chowan University
+The Art Institute of Seattle
+New England College
+Livingstone College
+Navajo Technical College
+Miles College
+United Talmudical Seminary
+Central Yeshiva Tomchei Tmimim Lubavitz
+Arkansas Baptist College
+Franklin W. Olin College of Engineering
+Soka University of America
+United States Naval Academy
+Sentara College of Health Sciences
+CUNY Graduate School & University Center
+The Curtis Institute of Music
+List College - The Jewish Theological Seminary
+Good Samaritan College of Nursing & Health Science
+Bon Secours Memorial College of Nursing
+United States Military Academy at West Point
+The Juilliard School
+Averett University - Non-Traditional Programs
+United States Coast Guard Academy
+St. Louis College of Pharmacy
+Clarkson College
+Baptist College of Health Sciences
+Bellin College
+United States Air Force Academy
+Bryan College of Health Sciences
+Nebraska Methodist College of Nursing & Allied Health
+University of Minnesota - Rochester
+The New England Conservatory of Music
+National Louis University
+Moody Bible Institute
+Thomas Aquinas College
+The Christ College of Nursing & Health Sciences
+Southern Polytechnic State University
+Unitek College
+Kettering College
+Corcoran College of Art & Design
+Hillsdale College
+Eastwick College
+Cleveland Institute of Music
+Mercy College of Ohio
+St. John's College - Annapolis
+Nazarene Bible College
+Emmaus Bible College
+Alaska Pacific University
+Bryn Athyn College
+San Francisco Conservatory of Music
+Chamberlain College of Nursing - Columbus
+College of Health Care Professions - Houston Northwest
+Principia College
+Aquinas College - Nashville
+Appalachian Bible College
+Hondros College
+Cox College
+Cottey College
+Sweet Briar College
+Penn State Dubois
+St. John's College - Santa Fe
+Pennsylvania College of Health Sciences
+LIM College
+Columbia International University
+Strayer University - South Carolina
+Bethany Lutheran College
+Argosy University - Chicago
+Penn State Wilkes-Barre
+Manhattan School of Music
+Strayer University - Tennessee
+The Southern Baptist Theological Seminary
+Strayer University - North Carolina
+Florida Christian College
+Dallas Nursing Institute
+Faith Baptist Bible College & Theological Seminary
+Grove City College
+College of the Atlantic
+Saint Mary-of-the-Woods College
+The King's University - California
+Bard College at Simon's Rock
+Husson University
+Northwest Christian University
+Multnomah University
+New York College of Health Professions
+Penn State Shenango
+Eastern International College - Belleville
+Hesston College
+Cabarrus College of Health Sciences
+Herzing University - Orlando
+Peirce College
+Hobe Sound Bible College
+Southern California Institute of Architecture
+Ursuline College
+New England School of Communications
+Maria College of Albany
+Thomas University
+Presentation College
+University of Holy Cross
+Los Angeles College of Music
+AmeriTech College - Draper
+Saint Louis Christian College
+Strayer University - Florida
+O'More College of Design
+Providence Christian College
+Lincoln Christian University
+Cleary University
+Clarks Summit University
+Eastern International College - Jersey City
+Homestead Schools
+Goddard College
+Grace University
+Centura College - Virginia Beach
+United States University
+International Business College - Fort Wayne
+Life Pacific College
+New York School of Interior Design
+Prescott College
+Southwestern College - Kansas
+Kuyper College
+Maharishi University of Management
+Watkins College of Art, Design, & Film
+Baker College of Owosso
+Marlboro College
+Stevens-Henager College - Ogden
+Wilson College
+The King's College - New York
+Herzing University - New Orleans
+Remington College - Fort Worth
+Naropa University
+Calvary Bible College & Theological Seminary
+Sierra Nevada College
+Remington College - Shreveport
+Boise Bible College
+Mid-Atlantic Christian University
+Sullivan College of Technology & Design
+Madison Media Institute
+National American University - Rapid City
+Moore College of Art & Design
+Bethesda University of California
+Mount Marty College
+Oak Hills Christian College
+Harrison College - Grove City
+Hickey College
+Marylhurst University
+Argosy University - Twin Cities
+Warner Pacific College
+Hillsdale Free Will Baptist College
+Cambridge College
+Williams Baptist College
+York College - Nebraska
+Sterling College - Vermont
+Judson College
+Baker College of Allen Park
+John Paul the Great Catholic University
+Blue Mountain College
+Southwest University of Visual Arts - Tucson
+Manhattan Christian College
+Maine College of Art
+American Public University System
+Ohio Valley University
+New England Culinary Institute
+Trinity Bible College
+Nossi College of Art
+Art Academy of Cincinnati
+Northland International University
+Pacific College
+Central Penn College
+The Baptist College of Florida
+United Tribes Technical College
+San Francisco Art Institute
+DeVry University - Arizona
+DeVry University - Missouri
+Institute of Production & Recording
+American Academy of Art
+South University - Tampa
+City College - Gainesville
+Platt College - Ontario
+Mt. Sierra College
+Capitol Technology University
+Midstate College
+City College - Fort Lauderdale
+Akron Institute of Herzing University
+Hiwassee College
+Bryant & Stratton College - Eastlake
+Rio Grande Bible Institute
+Ambria College of Nursing
+Mercy College of Health Sciences
+Ner Israel Rabbinical College
+Memphis College of Art
+The Restaurant School at Walnut Hill College
+Bryant & Stratton College - Albany
+Purdue University Global - Cedar Falls Campus
+Coleman University
+Bryant & Stratton College - Virginia Beach
+CollegeAmerica - Denver
+Santa Barbara Business College - Bakersfield
+Remington College - Honolulu
+DeVry University - North Carolina
+Kentucky Christian University
+Herzing University - Minneapolis
+Benjamin Franklin Institute of Technology
+Villa Maria College
+Globe University - Woodbury
+Stevens-Henager College - Provo
+Pacific Northwest College of Art
+Criswell College
+Iowa Wesleyan University
+Dallas Christian College
+Denver School of Nursing
+Platt College - Tulsa
+University of Antelope Valley
+South University - Montgomery
+Baker College of Muskegon
+Herzing University - Atlanta
+Midwestern Baptist Theological Seminary
+Columbia College Hollywood
+Central Christian College of the Bible
+University of the Potomac
+Baker College of Port Huron
+Shorter University - College of Adult & Professional Programs
+Herzing University - Birmingham
+University of Maine at Machias
+Santa Barbara Business College - Santa Maria
+Pennsylvania Academy of the Fine Arts
+University of Phoenix - Chicago
+Bristol University
+Montserrat College of Art
+Wade College
+Davis College - New York
+College of Menominee Nation
+Southern Vermont College
+Carlos Albizu University - Miami
+Western Governors University
+Neumont College of Computer Science
+Sanford-Brown College - Tampa
+Southwestern Christian College
+Nebraska Christian College
+University of Phoenix - Louisville
+New Hampshire Institute of Art
+Jamestown Business College
+South University - Richmond
+Bryant & Stratton College - Richmond
+City University of Seattle
+Virginia College - Huntsville
+Pennsylvania College of Art & Design
+Boston Architectural College
+Baptist University of the Americas
+Brookline College - Tucson
+School of the Museum of Fine Arts
+Baker College of Jackson
+The Art Institute of California - Sacramento
+Purdue University Global - Omaha Campus
+Northpoint Bible College
+DeVry University - Pennsylvania
+CollegeAmerica - Colorado Springs
+Finlandia University
+NewSchool of Architecture & Design
+Purdue University Global - Hagerstown Campus
+Strayer University - District of Columbia
+Turtle Mountain Community College
+Ohio University - Eastern
+Welch College
+Expression College for Digital Arts
+Professional Training Centers
+Living Arts College
+Louisiana Culinary Institute
+Platt College - Oklahoma City North
+Baker College of Cadillac
+Rosemont College
+Silver Lake College of the Holy Family
+DeVry University - Virginia
+College of St. Joseph
+CollegeAmerica - Fort Collins
+Crossroads Bible College
+Hamilton Technical College
+Platt College - San Diego
+Baker College Center for Graduate Studies
+Digital Media Arts College
+Purdue University Global - Des Moines Campus
+Vista College - Online
+Brookline College - Albuquerque
+Sh'or Yoshuv Rabbinical College
+Minnesota School of Business - Richfield
+Sinte Gleska University
+Bryan University - Springfield
+CollegeAmerica - Flagstaff
+University of Phoenix - Jersey City
+Sojourner-Douglass College
+University of Phoenix - Oregon
+Daymar Institute - Clarksville
+Trinity College of Florida
+University of Phoenix - Washington DC
+University of Phoenix - Milwaukee
+New England College of Business
+Virginia University of Lynchburg
+Southeastern Bible College
+St. Louis College of Health Careers - Fenton
+Institute of American Indian Arts
+Charlotte Christian College and Theological Seminary
+University of Phoenix - Columbia
+Strayer University - Global Region
+Humphreys College-Stockton  and  Modesto Campuses
+Beis Medrash Heichal Dovid
+SUM Bible College & Theological Seminary
+Clinton Junior College
+Sitting Bull College
+Somerset Christian College
+Fremont College
+DeVry University - Colorado
+New Hope Christian College
+Bryant & Stratton College - Cleveland
+Baker College of Clinton Township
+Spencerian College - Louisville
+Empire College School of Business
+Barclay College
+Baptist Bible College
+Stevens-Henager College - Boise
+Lincoln University - California
+American Baptist College
+City College - Miami
+Donnelly College
+Bryant & Stratton College - Southtowns
+Santa Barbara Business College - Ventura
+Bryant & Stratton College - Wauwatosa
+Kent State University - East Liverpool
+Herzing University - Toledo
+Sanford-Brown College - Seattle
+The Art Institute of Charlotte
+Crowley's Ridge College
+Beulah Heights University
+Bryant & Stratton College - Milwaukee
+New Orleans Baptist Theological Seminary
+Career Networks Institute
+Concorde Career College - Kansas City
+Angeles College
+American InterContinental University - Houston
+Purdue University Global - Lincoln Campus
+American InterContinental University - Dunwoody
+Purdue University Global - Cedar Rapids Campus
+Concordia College - Alabama
+Ecclesia College
+Great Lakes Christian College
+Colorado Technical University - Greenwood Village
+Bryant & Stratton College - Syracuse North
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary
+Rasmussen College - Green Bay
+University of Phoenix - Western Washington
+Trinity Baptist College
+University of the Southwest
+Fort Berthold Community College
+Bryant & Stratton College - Buffalo
+University of Phoenix - Maryland
+Bryant & Stratton College - Amherst
+Bryant & Stratton College - Parma
+Broadview University - West Jordan
+Strayer University - Maryland
+Arlington Baptist College
+Martin University
+American National University - Lexington
+University of Phoenix - Indianapolis
+Lincoln College of New England - Southington
+Brewton-Parker College
+Mirrer Yeshiva Cent Institute
+Miami Regional University
+Daymar College - Bowling Green
+University of Phoenix - Boston
+Paul Quinn College
+Daymar Institute - Murfreesboro
+Hebrew Theological College
+Voorhees College
+Daymar Institute - Nashville
+Pine Manor College
+Minnesota School of Business - Blaine
+Beckfield College - Florence
+Rasmussen College - Fargo
+Rabbinical College of America
+Bryant & Stratton College - Bayshore
+Vatterott College - Sunset Hills
+Apex School of Theology
+Kehilath Yakov Rabbinical Seminary
+Bryant & Stratton College - Greece
+Virginia College - Charleston
+The Art Institute of Charleston
+Rabbinical College Bobover Yeshiva Bnei Zion
+The Art Institute of Raleigh-Durham
+Mesivta Torah Vodaath Rabbinical Seminary
+Harrisburg University of Science & Technology
+Machzikei Hadath Rabbinical College
+Yeshiva Gedolah Imrei Yosef D'spinka
+Yeshiva of the Telshe Alumni - Adult Education
+Talmudical Seminary of Bobov
+Rabbinical Academy Mesivta Rabbi Chaim Berlin
+Yeshivas Novominsk - Adult Education
+Bryant & Stratton College - Online
+Yeshiva of Nitra Rabbinical College
+Talmudical Seminary Oholei Torah
+Be'er Yaakov Talmudic Seminary
+Yeshiva of Machzikai Hadas
+Yeshiva Toras Chaim
+University of Phoenix - Online
+Humber College Institute of Technology & Advanced Learning
+University of Puerto Rico - Mayaguez
+Universidad Del Turabo
+American College
+Universidad Metropolitana
+University of Phoenix - Southern California
+University of Phoenix - San Diego
+University of North Georgia - Gainesville
+Inter American University of Puerto Rico
+Middle Georgia State University
+Pontifical Catholic University of Puerto Rico - Ponce
+Pensacola Christian College
+Universidad Del Este
+University of Puerto Rico - Bayamon
+Parsons School of Design - The New School
+Inter American University of Puerto Rico - Ponce
+University of Puerto Rico - Arecibo
+London School of Economics & Political Science
+Inter American University of Puerto Rico - Bayamon
+University of Puerto Rico - Humacao
+University of Sacred Heart
+National University College - Bayamon
+Inter American University of Puerto Rico - San German
+University of Puerto Rico - Ponce
+University of Puerto Rico - Cayey
+Regent's American College London
+Inter American University of Puerto Rico - Aguadilla
+Inter American University of Puerto Rico - Arecibo
+University of Puerto Rico - Carolina
+University of Puerto Rico - Aguadilla
+University of Phoenix - Phoenix
+St. Joseph's College - Long Island
+University of Phoenix - Sacramento Valley
+University of Guam
+Chamberlain College of Nursing - Addison
+University of Houston - Clear Lake
+University of Phoenix - Central Valley
+College of Saint Benedict
+Governors State University
+Texas A&M University - Galveston
+University of Phoenix - Las Vegas
+Saint John's University - Minnesota
+Inter American University of Puerto Rico - Fajardo
+Inter American University of Puerto Rico - Barranquitas
+New York Institute of Technology - Manhattan Campus
+West Coast University - Orange County
+University of Phoenix - Houston
+University of Houston - Victoria
+New York Film Academy - Hollywood
+Polytechnic University of Puerto Rico
+Inter American University of Puerto Rico - Guayama
+Eugene Lang College of Liberal Arts - The New School
+University of the Virgin Islands
+University of Phoenix - Southern Arizona
+University of Phoenix - Bay Area
+University of Puerto Rico - Utuado
+University of Phoenix - Atlanta
+University of Phoenix - Dallas
+Colegio Universitario de San Juan
+Texas Tech University Health Sciences Center
+Florida Polytechnic University
+Pontifical Catholic University of Puerto Rico - Mayaguez
+Alberta College of Art & Design
+Athens State University
+West Coast University - Ontario
+Universidad Adventista de las Antillas
+Brandman University
+Baker College of Auburn Hills
+Texas A&M University - Texarkana
+Bayamon Central University
+Atlantic University College
+National University College - Ponce
+Central Methodist University - College of Graduate & Extended Studies
+University of Phoenix - North Florida
+University of South Florida - Sarasota-Manatee
+Caribbean University - Bayamon
+EDP University of Puerto Rico - San Juan
+Loma Linda University
+National University College - Arecibo
+The Master's University
+University of Phoenix - Charlotte
+Northern Marianas College
+National University College - Rio Grande
+University of Phoenix - San Antonio
+University of Phoenix - West Florida
+University of Phoenix - Columbus GA
+EDIC College
+University of Oklahoma Health Sciences Center
+Atenas College
+The American University of Paris
+University of Texas - Health Science Center at San Antonio
+National University College - Caguas
+University of Phoenix - Augusta
+EDP University of Puerto Rico - San Sebastian
+Huertas Junior College
+University of Maryland - Baltimore
+University of Nebraska Medical Center
+American University of Puerto Rico - Manati
+American Samoa Community College
+Louisiana State University Health Sciences Center - New Orleans
+Thomas Jefferson University
+University of Texas - Medical Branch at Galveston
+Baptist Health System School of Health Professions
+Springfield College - School of Professional and Continuing Studies
+Texas A&M University - Central Texas
+Centro de Estudios Multidisciplinarios - San Juan
+University of Memphis - Lambuth
+Berkeley College - Woodbridge
+Columbia Central University - Caguas
+The Art Institute of San Antonio
+Caribbean University - Ponce
+University of Texas - Health Science Center at Houston
+Barnes-Jewish College - Goldfarb School of Nursing
+Pontifical Catholic University of Puerto Rico - Arecibo
+The College at Southeastern
+Dewey University - Manati
+American University of Puerto Rico - Bayamon
+Samuel Merritt University
+University of Arkansas for Medical Sciences
+Centro de Estudios Multidisciplinarios - Humacao
+Dewey University - Hato Rey
+University of Management & Technology
+Dewey University - Carolina
+West Coast University - Dallas
+Platt College - Riverside
+North American University
+Patten University
+Resurrection University
+Escuela de Artes Plásticas de Puerto Rico
+Doane University - Lincoln-Grand Island
+San Diego State University - Imperial Valley
+South University - Virginia Beach
+Flagler College - Tallahassee
+Humacao Community College
+Roseman University of Health Sciences
+Berkeley College - White Plains
+Berkeley College - Newark
+The Art Institute of Virginia Beach
+Saint Luke's College of Health Sciences
+University of Puerto Rico - Medical Sciences
+Landmark College
+University of Mississippi Medical Center
+Universal Technology College of Puerto Rico
+Elizabethtown College School of Continuing & Professional Studies
+Tribeca Flashpoint College
+Linfield College - School of Nursing
+Oregon State University - Cascades
+Methodist College
+Centro de Estudios Multidisciplinarios - Bayamon
+Touro University - Worldwide
+Berkeley College - Brooklyn
+Beacon College
+Saint Francis Medical Center College of Nursing - Illinois
+Medical University of South Carolina
+Argosy University - Hawaii
+Strayer University - Texas
+Fashion Institute of Design & Merchandising - San Francisco
+Chamberlain College of Nursing - Atlanta
+American Business & Technology University
+Puerto Rico Conservatory of Music
+University of Texas - MD Anderson Cancer Center
+South University - Austin
+Allen College
+Chamberlain College of Nursing - Jacksonville
+Caribbean University - Carolina
+American University of Health Sciences
+South Baylo University
+Caribbean University - Vega Baja
+Altierus Career College - Tampa
+Dewey University - Juana Diaz
+Georgia Christian University
+Altierus Career College - Orange Park
+SUNY Downstate Medical Center
+Chamberlain College of Nursing - Phoenix
+Texas A&M Health Science Center
+Southwestern Baptist Theological Seminary
+Chamberlain College of Nursing - Houston
+Trine University - Regional
+Research College of Nursing
+Blessing Rieman College of Nursing
+The School of Jazz & Contemporary Music - The New School
+Platt College - Aurora
+Oregon Health & Science University
+Nightingale College
+Lakeview College of Nursing
+Purdue University Global - Augusta Campus
+South University - Cleveland
+Columbia Central University - Yauco
+Herzing University - Brookfield
+Mayo School of Health Sciences
+Parker University
+IGlobal University
+Herzing University - Kenosha
+Alliant International University
+MGH Institute of Health Professions
+Carlos Albizu University - San Juan
+Faith Evangelical College & Seminary
+Bastyr University
+Piedmont International University
+Strayer University - Pennsylvania
+South University - Novi
+Yeshivath Zichron Moshe
+Universidad Pentecostal Mizpa
+Saint Anthony College of Nursing
+Northwestern Polytechnic University
+Chamberlain College of Nursing - Arlington
+Universidad Teologica del Caribe
+Selma University
+Helene Fuld College of Nursing
+SUNY Upstate Medical University
+Golden Gate University
+University of the West
+Saint Joseph Seminary College
+Palo Alto University
+Marian Court College
+New Saint Andrews College
+Mannes School of Music - The New School
+Rabbinical College of Long Island
+Bryant & Stratton College - Hampton
+Trinity College of Nursing & Health Sciences
+Universidad Central Del Caribe
+Berkeley College - Paramus
+Cincinnati College of Mortuary Science
+Stevens-Henager College - St. George
+St. John's College of Nursing
+Argosy University - Atlanta
+Stevens-Henager College - Idaho Falls
+Global Health College
+Compass College of Cinematic Arts
+St. Luke's College
+Careers Unlimited
+Virginia International University
+Simmons College - Kentucky
+Southern California University of Health Sciences
+Columbia College of Nursing
+Remington College of Nursing - Orlando
+Laurel University
+Fountainhead College of Technology
+Stevens Institute of Business & Arts
+University of Phoenix - Puerto Rico
+Oregon College of Art & Craft
+Aultman College of Nursing & Health Sciences
+Strayer University - New Jersey
+Yeshiva Shaarei Torah of Rockland
+National Graduate School of Quality Management
+Visible Music College
+VanderCook College of Music
+Antioch College
+Minnesota School of Business - Waite Park
+Rabbi Jacob Joseph School - Adult Education
+Sanford College of Nursing
+Hellenic College & Holy Cross Greek Orthodox School of Theology
+Thomas More College of Liberal Arts
+Antioch University - Santa Barbara
+Webb Institute
+Pontifical College Josephinum
+Central Baptist Theological Seminary
+Design Institute of San Diego
+Ohr Hameir Theological Seminary
+Conception Seminary College
+Millennia Atlantic University
+Crossroads College
+Rush University
+Chamberlain College of Nursing - Indianapolis
+Northeast Catholic College
+Bais Medrash Toras Chesed
+Northwest College of Art & Design
+The Chicago School of Professional Psychology - Los Angeles
+Stevens-Henager College - Logan
+Touro University - Nevada
+Broadview Entertainment Arts University
+Northwestern Health Sciences University
+Strayer University - Alabama
+Schiller International University
+Clear Creek Baptist Bible College
+Antioch University - Los Angeles
+DeVry University - Nevada
+Argosy University - Los Angeles
+Torah Temimah Talmudical Seminary
+Southeast Missouri Hospital College of Nursing & Health Sciences
+Pacific College of Oriental Medicine - San Diego
+Minnesota School of Business - Shakopee
+Virginia Marti College of Art & Design
+National American University - Overland Park
+Mid-America College of Funeral Service
+New Hope Christian College - Hawaii
+Yeshiva Derech Chaim
+American Indian College of the Assemblies of God
+Colorado Heights University
+Yeshiva Shaar Hatorah - Adult Education
+Walsh College of Accountancy & Business Administration
+University of Western States
+Duluth Business University
+Interior Designers Institute
+Telshe Yeshiva - Chicago
+Lyme Academy College of Fine Arts
+South Florida Bible College & Theological Seminary
+Paier College of Art
+Southwest University of Visual Arts - Albuquerque
+College of Biblical Studies - Houston
+Argosy University - Phoenix
+Saint Charles Borromeo Seminary
+Shimer College
+World Mission University
+Minnesota School of Business - Moorhead
+St. Vincent's College - Connecticut
+Divine Word College
+Argosy University - Inland Empire
+Bryant & Stratton College - Akron
+Yeshiva Gedolah of Greater Detroit
+American Jewish University
+DeVry University - Tennessee
+Argosy University - San Diego
+Kentucky Mountain Bible College
+National American University - Albuquerque
+Grace College of Divinity
+Gratz College
+California Institute of Integral Studies
+Bais HaMedrash & Mesivta of Baltimore
+St. John Vianney College Seminary
+Allegheny Wesleyan College
+National American University - Sioux Falls
+National American University - Colorado Springs South
+Talmudical Academy - New Jersey
+The Creative Center
+Mount Angel Seminary
+Luther Rice University & Seminary
+National University of Health Sciences
+Academy College
+Holy Apostles College & Seminary
+Bais Medrash Elyon
+John F Kennedy University
+Ottawa University - Jeffersonville
+Mesivtha Tifereth Jerusalem of America
+International Baptist College
+Purdue University Global - Mason City Campus
+Sacred Heart Major Seminary
+Yeshiva D'monsey Rabbinical College
+Boston Baptist College
+National American University - Zona Rosa
+Hussian College
+Minneapolis Media Institute
+Logan University
+Yeshivas Be'er Yitzchok
+Kenrick Glennon Seminary
+Trinity International University - Davie
+New York College of Traditional Chinese Medicine
+Eastern School of Acupuncture & Traditional Medicine
+Montana Bible College
+National American University - Colorado Springs
+Cleveland University - Kansas City
+Rabbinical College Beth Shraga
+Trinity Vocational Center
+Thomas Edison State University
+Messenger College
+Pacific Islands University
+National American University - Bloomington
+Pacific College of Oriental Medicine - New York
+Rabbinical College Telshe
+Key College
+Charles R. Drew University of Medicine & Science
+National American University - Ellsworth AFB Extension
+West Virginia University Hospital - Departments of Rad Tech & Nutrition
+CollegeAmerica - Cheyenne
+University of Phoenix - Birmingham
+Yeshivath Beth Moshe
+Carolina College of Biblical Studies
+Saint John's Seminary - Massachusetts
+Bergin University of Canine Studies
+Argosy University - Nashville
+Hebrew College
+Epic Bible College
+Williamson Christian College
+Phillips Beth Israel School of Nursing
+Talmudic College of Florida
+Atlantic Institute of Oriental Medicine
+Longy School of Music of Bard College
+Argosy University - San Francisco Bay Area
+University of Phoenix - Idaho
+Heritage Bible College
+University of the Potomac - Vienna
+Strayer University - Delaware
+Daymar College - Owensboro
+Amberton University
+San Juan Bautista School of Medicine
+Beth Hamedrash Shaarei Yosher Institute
+Argosy University - Denver
+DeVry University - Indiana
+Argosy University - Tampa
+Argosy University - Orange County
+Carver College
+Daymar College - Paducah Main
+Sanford-Brown College - Orlando
+Mesivta of Eastern Parkway - Yeshiva Zichron Meilech
+Laboure College
+Polytechnic University of Puerto Rico - Orlando
+National American University - Austin
+Bais Binyomin Academy
+Long Island University - Riverhead
+Carolina Christian College
+Jones College
+Acupuncture & Massage College
+Pacific States University
+Argosy University - Dallas
+CollegeAmerica - South Colorado Springs
+Palmer College of Chiropractic - Davenport
+Colorado Technical University - Kansas City
+Whitworth University - Adult Degree Programs
+Bethel College - Virginia
+Unification Theological Seminary
+Alaska Bible College
+University of Phoenix - Minneapolis/St. Paul
+Yeshivah Gedolah Rabbinical College
+Louisiana State University Health Sciences Center - Shreveport
+Beverly Hills Design Institute
+Summit Christian College
+Deep Springs College
+Birthingway College of Midwifery
+DeVry University - Oklahoma
+Strayer University - Arkansas
+Sanford-Brown College - Chicago
+National American University - Albuquerque West
+Yeshivat Mikdash Melech
+Shasta Bible College & Graduate School
+Dongguk University
+Argosy University - Schaumburg
+National American University - Centennial
+Broadview University - Boise
+Linfield College - Adult Degree Program
+Notre Dame Seminary Graduate School of Theology
+National American University - Brooklyn Center
+Southeastern Baptist College
+California University of Management & Sciences
+Polytechnic University of Puerto Rico - Miami
+Strayer University - Mississippi
+Dell'Arte International School of Physical Theatre
+Montessori Education Center of the Rockies
+American Conservatory Theater
+Middlebury Institute for International Studies at Monterey
+Strayer University - West Virginia
+National American University - Mesquite
+Antioch University - Midwest
+Ecumenical Theological Seminary
+Argosy University - Sarasota
+Pacific College of Oriental Medicine - Chicago
+National American University - Lee's Summit
+Christian Life College
+Athenaeum of Ohio
+Daymar College - Louisville South
+Cooper Health System Center for Allied Health Education
+Southern California University SOMA
+Colorado Technical University - Sioux Falls
+Yeshiva Gedolah Zichron Leyma
+Texas Health and Science University
+Argosy University - Salt Lake City
+Yeshiva & Kollel Harbotzas Torah
+Tri-State Bible College
+Jose Maria Vargas University
+Midwest College of Oriental Medicine - Chicago
+National American University - Independence
+Baptist Missionary Association Theological Seminary
+East West College of Natural Medicine
+Brown College - Brooklyn Center
+Antioch University - Seattle
+United States Sports Academy
+National American University - Burnsville
+National American University - Wichita
+Globe University - Minneapolis
+Family of Faith Christian University
+California Christian College
+Southern California Seminary
+Huntsville Bible College
+National American University - Tulsa
+Midwest College of Oriental Medicine - Racine
+Argosy University - Seattle
+CBT College - Kendall
+National American University - Roseville
+Shepherds Theological Seminary
+Argosy University - Washington
+Talmudical Institute of Upstate New York
+Beth Hatalmud Rabbinical College
+National American University - Bellevue
+Hood Theological Seminary
+University of Texas - Southwestern Medical Center
+Daymar College - Bellevue
+Sofia University
+University of Phoenix - Des Moines
+Horizon University
+Brown College - Mendota Heights
+Austin Graduate School of Theology
+Reformed Presbyterian Theological Seminary
+W L Bonner College
+Ottawa University - Phoenix
+Maple Springs Baptist Bible College & Seminary
+Pacific Oaks College
+Ottawa University - Milwaukee
+Taliesin - Frank Lloyd Wright School of Architecture
+Long Island University - Brentwood
+Thunderbird School of Global Management
+Daymar College - Louisville Northeast
+Pentecostal Theological Seminary
+Hazelden Graduate School of Addiction Studies
+University of Fort Lauderdale
+Rasmussen College - Topeka
+Marlboro College Graduate School
+Ottawa University - Kansas City
+Rasmussen College - Land O'Lakes/East Pasco
+New York Film Academy South Beach
+West Coast Baptist College
+Rasmussen College - Kansas City/Overland Park

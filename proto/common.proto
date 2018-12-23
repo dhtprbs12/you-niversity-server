@@ -1,0 +1,210 @@
+syntax = "proto3";
+import "board.proto";
+import "mentor.proto";
+
+//comment
+message Comment{
+  int64 comment_id = 1;
+  int64 board_id = 2;
+  int64 user_id = 3;
+  int64 receiver_id = 4;
+  string user_nickname = 5;
+  string comment_content = 6;
+  string comment_created = 7;
+}
+
+message RepliedComment{
+  int64 comment_reply_id = 1;
+  int64 comment_id = 2;
+  int64 board_id = 3;
+  int64 user_id = 4;
+  int64 receiver_id = 5;
+  string user_nickname = 6;
+  string comment_content = 7;
+  string comment_created = 8;
+}
+
+message CommentUploadRequest{
+  int64 board_id = 1;
+  int64 user_id = 2;
+  string user_nickname = 3;
+  string comment_content = 4;
+  int64 receiver_id = 5;
+}
+
+message RepliedCommentUploadRequest{
+  int64 comment_id = 1;
+  int64 board_id = 2;
+  int64 user_id = 3;
+  string user_nickname = 4;
+  string comment_content = 5;
+  int64 receiver_id = 6;
+}
+
+message GetCommentsRequest{
+  int64 board_id = 1;
+  int64 comment_id = 2;
+  string scroll_is = 3;
+}
+
+message GetRepliedCommentsRequest{
+  int64 comment_reply_id = 1;
+  int64 comment_id = 2;
+  string scroll_is = 3;
+}
+
+message GetCommentsResponse{
+  repeated Comment comments = 1;
+
+}
+
+message GetRepliedCommentsResponse{
+  repeated RepliedComment comments = 1;
+}
+
+message GetCommentsCountRequest{
+  int64 board_id = 1;
+}
+
+message GetCommentsCountResponse{
+  int64 count = 1;
+}
+
+//comments that someone commented on mentors
+message MentorComment{
+  int64 comment_id = 1;
+  int64 mentor_id = 2;
+  int64 user_id = 3;
+  int64 receiver_id = 4;
+  string user_nickname = 6;
+  string profileurl = 7;
+  string content = 8;
+  string comment_created = 9;
+}
+
+message RepliedMentorComment{
+  int64 replied_comment_id = 1;
+  int64 comment_id = 2;
+  int64 mentor_id = 3;
+  int64 user_id = 4;
+  int64 receiver_id = 5;
+  string user_nickname = 6;
+  string profileurl = 7;
+  string content = 8;
+  string comment_created = 9;
+}
+
+message UploadMentorCommentRequest{
+  int64 mentor_id = 1;
+  int64 user_id = 2;
+  string user_nickname = 3;
+  string profileurl = 4;
+  string content = 5;
+  int64 receiver_id = 6;
+}
+
+message UploadRepliedMentorCommentRequest{
+  int64 comment_id = 1;
+  int64 mentor_id = 2;
+  int64 user_id = 3;
+  string user_nickname = 4;
+  string profileurl = 5;
+  string content = 6;
+  int64 receiver_id = 7;
+}
+
+message GetMentorCommentsRequest{
+  int64 mentor_id = 1;
+  int64 comment_id = 2;
+  string scroll_is = 3;
+}
+
+message GetRepliedMentorCommentsRequest{
+  int64 replied_comment_id = 1;
+  int64 comment_id = 2;
+  string scroll_is = 3;
+}
+
+message GetMentorCommentsResponse{
+  repeated MentorComment comments = 1;
+}
+
+message GetRepliedMentorCommentsResponse{
+  repeated RepliedMentorComment comments = 1;
+}
+
+message GetMentorCommentsCountRequest{
+  int64 mentor_id = 1;
+}
+
+message GetMentorCommentsCountResponse{
+  int64 count = 1;
+}
+
+message GetSharedCommentsRequest{
+  int64 user_id = 1;//this is my user_id
+}
+
+message GetSharedCommentsResponse{
+  repeated Comment comments = 1;
+  repeated RepliedComment replied_comments = 2;
+  repeated MentorComment mentor_comments = 3;
+  repeated RepliedMentorComment replied_mentor_comments = 4;
+}
+//these are called when user tab any cell in SharedCommentsTableViewController
+//comment
+message GetBoardObjectRequest{
+  int64 board_id = 1;
+}
+
+message GetBoardObjectResponse{
+  Board board = 1;
+}
+//replied comment
+message GetCommentObjectRequest{
+  int64 comment_id = 1;
+}
+
+message GetCommentObjectResponse{
+  Comment comment = 1;
+}
+//mentor comment
+message GetMentorObjectRequest{
+  int64 mentor_id = 1;
+}
+
+message GetMentorObjectResponse{
+  Mentor mentor = 1;
+}
+//replied mentor comment
+message GetMentorCommentObjectRequest{
+  int64 comment_id = 1;
+}
+
+message GetMentorCommentObjectResponse{
+  MentorComment comment = 1;
+}
+//check if there is new comments created on me
+message CheckIfThereIsNewCommentsRequest{
+  int64 user_id = 1;
+  string date = 2;
+}
+
+message CheckIfThereIsNewCommentsResponse{
+  int64 count = 1;
+}
+
+message CheckIfItsDeletedRequest{
+  //this either board_id or mentor_id
+  int64 id = 1;
+  //this either 1 = board or 2 = mentor
+  int64 type = 2;
+}
+
+message CheckIfItsDeletedResponse{
+  string is_deleted = 1;
+}
+
+message EmptyResponse{
+
+}
