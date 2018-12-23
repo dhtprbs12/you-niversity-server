@@ -37,62 +37,10 @@ var options = {
 
 let apnProvider = new apn.Provider(options)
 
-
-// var conn = mysql.createConnection({
-//   host     : 'localhost',
-//   user     : 'root',
-//   password : 'Dhtp123rbs.',
-//   connectTimeout:0,
-//   database : 'sekyunoh'
-// })
-//
-// conn.connect(
-//   function(err){
-//   if(err){
-//     console.error('error connecting'+err.stack);
-//     return;
-//   }
-//   conn.end();
-// });
-
-// var config = {
-//  host:'localhost',
-//  user:'root',
-//  password:'Dhtp123rbs.',
-//  database:'sekyunoh'
-// }
-
-//var conn;
-//Reconnect to db when db is disconnected by default timeout of it
-// function handleDisconnect() {
-//   conn = mysql.createConnection(config); // Recreate the connection, since
-//                                                   // the old one cannot be reused.
-//
-//   conn.connect(function(err) {              // The server is either down
-//     if(err) {                                     // or restarting (takes a while sometimes).
-//       console.log('error when connecting to db:', err);
-//       setTimeout(handleDisconnect, 2000); // We introduce a delay before attempting to reconnect,
-//     }                                     // to avoid a hot loop, and to allow our node script to
-//   });                                     // process asynchronous requests in the meantime.
-//                                           // If you're also serving http, display a 503 error.
-//   conn.on('error', function(err) {
-//     console.log('db error', err);
-//     if(err.code === 'PROTOCOL_CONNECTION_LOST') { // Connection to the MySQL server is usually
-//       conn.release();
-//       conn.end();
-//       handleDisconnect();                         // lost due to either server restart, or a
-//     } else {                                      // connnection idle timeout (the wait_timeout
-//       throw err;                                  // server variable configures this)
-//     }
-//   });
-// }
-//
-// handleDisconnect();
-
 var conn = mysql.createPool({
   host:'localhost',
   user:'root',
-  password:'Dhtp123rbs.',
+  password:'',
   database:'sekyunoh'
 })
 //conn.query() internally acquire connection and release when query is executed
